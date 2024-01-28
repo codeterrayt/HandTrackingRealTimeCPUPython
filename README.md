@@ -37,7 +37,7 @@ This project demonstrates real-time hand tracking in Python, utilizing OpenCV an
 3. Run the hand tracking script:
 
     ```bash
-    python hand_tracking.py
+    python HandTrackingRealTimeCPU.py
     ```
 
 ## Usage
