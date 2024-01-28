@@ -52,7 +52,7 @@ This project demonstrates real-time hand tracking in Python, utilizing OpenCV an
 
 ## Development
 
-The main script is `hand_tracking.py`. Feel free to explore and modify the code to suit your needs. Contributions are welcome!
+The main script is `HandTrackingRealTimeCPU.py`. Feel free to explore and modify the code to suit your needs. Contributions are welcome!
 
 ## Acknowledgments
 
